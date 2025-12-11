@@ -50,5 +50,4 @@
 
 ## 📫 Connect with Me
 
-* **Email:** sjw****@gmail.com
-* **LinkedIn/Blog:** (선택 사항으로 링크 추가)
+* **Email:** sjw3090@gmail.com
