@@ -1,53 +1,35 @@
-# 안녕하세요! 함께 성장하며 문제를 해결하는 백엔드 개발자, 심재우입니다.
+💥 심재우 (Sim Jaewoo) | 백엔드 엔지니어 (Java/Spring Performance Specialist)
+위치	연락처	GitHub / 포트폴리오	이메일
+서울 금천구	010-****-3090	(GitHub URL 기재)	sjw****@gmail.com
 
-기술적 도전을 통해 **시스템 성능 최적화와 안정성 확보**에 집중하며, 비즈니스 요구사항을 충족시키는 견고한 백엔드 시스템을 구축합니다.
+🎯 Value Proposition & Core Competencies (핵심 가치 제안)
+시스템 성능 최적화 전문가 (200배 개선): Spring Data JPA 기반의 검색 병목 현상을 MySQL FULLTEXT 인덱스 및 n-gram 파서 도입으로 해결, API 응답 속도를 10초에서 50ms로 단축시켜 사용자 경험과 시스템 효율 극대화.
 
----
+고가용성 확보 및 비용 절감: DB 교착 상태 및 커넥션 풀 고갈 이슈를 HikariCP 최적화와 인덱스 재구성으로 해결하여 API 안정성 99.9% 달성. Redis 캐싱 전략으로 DB 부하 40% 감소.
 
-## 🎯 Core Competencies (핵심 역량 요약)
+견고한 아키텍처 구축: 대규모 트래픽 처리 시 메모리 누수를 페이징/배치 프로세싱으로 해결, 메모리 사용량 70% 감소 및 5,000명 이상 데이터 안정적 처리 능력 확보.
 
-* **Performance Optimization:** Spring Data JPA 검색 성능 문제에 **MySQL FULLTEXT 인덱스**를 도입하여 응답 속도를 **10초에서 50ms (약 200배)** 개선한 경험 보유.
-* **System Stability & Troubleshooting:** 대규모 데이터 처리 시 발생하는 **메모리 누수 문제**를 페이징/배치 프로세싱으로 해결하여 메모리 사용량 **70% 감소** 달성.
-* **Security & Reliability:** OAuth 2.0 및 Spring Security를 활용한 인증/보안 시스템 구축 경험과, DB 교착 상태 문제 해결을 통한 API 안정성 **99.9%** 확보.
-* **DevOps Practice:** Git Action 기반 CI/CD 파이프라인 자동화 및 AWS 인프라(S3/EC2) 운영 경험.
+DevOps 자동화 및 보안: Git Action 기반 CI/CD 파이프라인 자동화로 배포 시간 78% 단축. OAuth 2.0 및 Spring Security 구현으로 보안 취약점 98% 감소.
 
----
+🛠️ Technical Depth (기술 전문성)
+분류	기술 상세
+핵심 백엔드	Java 8/11+, Spring Boot, Spring Framework, (Node.js/NestJS 보조)
+데이터 및 ORM	MySQL (Full Text Search), PostgreSQL, JPA, QueryDSL, Redis (Caching, Atomic Scripting)
+인프라/운영	AWS (S3, EC2), Git Action (CI/CD), GitHub, Docker
+품질 및 보안	OAuth 2.0, Spring Security, Mockito (TC 85%), REST API
 
-## 🛠️ Technical Stack (기술 스택)
+🚀 Key Achievements & Troubleshooting (핵심 성과 및 문제 해결)
+프로젝트/경력	역할/기술	성과 및 해결 과정 (Action → Result)
+음반 검색 기능 최적화	Java, MySQL (FTI), QueryDSL	[성능 병목 해결] Full Table Scan으로 10초 이상 소요되던 검색 로직을 FULLTEXT 인덱스 및 n-gram 파서로 전면 개편. 응답 속도를 200배 향상 (10s → 50ms).
+우리의 급여 시스템	Spring Security, 배치 프로세싱	[대용량 처리 안정화] 급여 일괄 계산 시 OutOfMemoryError 발생 문제에 대해 페이징 처리 및 배치 프로세싱 도입. 메모리 사용량 70% 감소, 5,000+명 데이터 안정적 처리.
+Ticat 서비스 API	Redis Caching, Git Action	[운영 효율 및 속도 개선] Redis 캐싱 전략을 도입하여 DB 쿼리 요청 40% 감소, API 응답 속도 60% 향상. Git Action CI/CD로 배포 시간 78% 단축.
+Ticat API 안정화	HikariCP, MySQL Indexing	[Critical Bug Fix] 특정 시간대 DB 커넥션 풀 고갈로 인한 502 타임아웃 문제를 HikariCP 최적화 및 인덱스 재구성으로 해결. API 안정성 99.9% 달성, 응답 시간 2.5초 → 0.8초 개선.
+에이플러스 손해사정	업무 자동화	[비즈니스 기여] 반복적인 업무를 파악하고 자동화 스크립트를 개발하여 일일 데이터 처리량을 30% 향상시키고 팀 생산성에 직접 기여.
 
-| 분류 | 기술 상세 |
-| :--- | :--- |
-| **Backend** | `Java` `Spring Boot` `Spring Framework` `Node.js` `NestJS` |
-| **Database** | `MySQL` `PostgreSQL` `JPA` `QueryDSL` `Redis` |
-| **Infra/DevOps** | `AWS (S3, EC2)` `Git Action (CI/CD)` `GitHub` |
-| **Security/Test** | `OAuth 2.0` `Spring Security` `Mockito` |
+💼 Professional Experience (경력)
+에이플러스손해사정(주) (업무 지원) | 2023.11 ~ 재직 중
 
-<br/>
+(\주)다온아카이브웍스 (웹개발) | 2021.09 ~ 2022.03 (7개월)
 
-### 📈 GitHub Stats
-
----
-
-## 🚀 Key Projects & Achievements (주요 프로젝트)
-
-프로필에 **Pinned**된 레포지토리는 이력서의 핵심 프로젝트입니다. 자세한 내용은 각 레포지토리의 `README.md`를 참고해 주세요.
-
-### 1. 음반 검색 기능 성능 최적화 🏆
-* **문제:** Full Table Scan으로 인한 검색 응답 시간 10초 이상 소요.
-* **해결:** **MySQL FULLTEXT 인덱스, n-gram 파서 도입** 및 Two-Phase Filtering 적용.
-* **성과:** 응답 속도 **50ms** 달성 (개선율 약 200배).
-
-### 2. 우리의 급여 - 급여 및 근태 관리 서비스 (팀장)
-* **주요 기여:** **OAuth 2.0 / Spring Security 구현** (보안 취약점 98% 감소) 및 Mockito를 활용한 **테스트 커버리지 85%** 확보.
-* **트러블슈팅:** 대량 급여 계산 시 OutOfMemoryError 해결을 위해 **페이징/배치 프로세싱 도입** (메모리 사용량 70% 감소).
-
-### 3. Ticat - 축제 안내 서비스
-* **성능:** **Redis 캐싱 전략 도입**으로 DB 쿼리 요청 **40% 감소** 및 API 응답 속도 **60% 향상**.
-* **DevOps:** Git Action CI/CD 파이프라인 자동화로 배포 시간 **78% 단축**.
-* **안정성:** DB 교착 상태 문제 해결을 위한 HikariCP 최적화 및 인덱스 재구성 (API 안정성 99.9% 향상).
-
----
-
-## 📫 Connect with Me
-
-* **Email:** sjw3090@gmail.com
+🎓 Education (학력)
+대림대학 (2·3년제) 산업경영 | 2007.02 ~ 2009.02
