@@ -1,4 +1,4 @@
-# 💥 심재우 (Sim Jaewoo) | 백엔드 엔지니어 (Java/Spring Performance Specialist)
+# 💥 심재우 (Sim Jaewoo) | 백엔드 엔지니어
 
 | **Email** | sjw3090@gmail.com |
 
